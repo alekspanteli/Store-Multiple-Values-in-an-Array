@@ -42,5 +42,13 @@
 //Spread operator
 
 
-const array1 = ['one', 'two', 'three']
-const array2 = ['toyota', 'bmw', 'mercedes']
+const middle = ['one', 'two', 'three']
+const burger = ['toyota', ...middle, 'mercedes']
+
+
+const brass = ['test', 'test2', 'test3', 'test4']
+const woodwind = ['heck1', 'heck2', 'heck3', 'heck4']
+
+const instr = [...brass, ...woodwind]
+
+instr.push('Spiderman')
