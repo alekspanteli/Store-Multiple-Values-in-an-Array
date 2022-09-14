@@ -37,3 +37,10 @@ const planets = [
 // let lastItem = planets.push();
 
 // document.write(lastItem)
+
+
+//Spread operator
+
+
+const array1 = ['one', 'two', 'three']
+const array2 = ['toyota', 'bmw', 'mercedes']
