@@ -11,11 +11,11 @@
 
 // Add elements
 
-const planets = [
-  "Mars", 
-  "Earth", 
-  "Venus"
-]
+// const planets = [
+//   "Mars", 
+//   "Earth", 
+//   "Venus"
+// ]
 
 // // we can add more than one item to an array
 
